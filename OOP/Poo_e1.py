@@ -9,8 +9,8 @@ class Persona:
         print(f'Nombre: {self.nombre}, Edad: {self.edad}')
 
 # Crear objetos de la clase Persona
-persona1 = Persona('Alice', 30)
-persona2 = Persona('Bob', 25)
+persona1 = Persona('Lucas', 28)
+persona2 = Persona('Ruben', 29)
 
 # Mostrar detalles de las personas
 persona1.mostrar_detalles()
