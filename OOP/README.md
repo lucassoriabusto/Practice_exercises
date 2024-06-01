@@ -1,3 +1,5 @@
+![Baner](https://kinsta.com/es/wp-content/uploads/sites/8/2021/07/python-object-oriented-programming.jpeg)
+
 # Introducción a la Programación Orientada a Objetos (POO) en Python
 
 La Programación Orientada a Objetos (POO) es un paradigma de programación que utiliza "objetos" y "clases" para organizar el código.
